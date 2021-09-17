@@ -1,0 +1,46 @@
+2021-09-13T06:26:04+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/project.ars/httpdocs/wp-content/themes/new_theme/front-page.php on line 2
+
+2021-09-13T09:21:48+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/templates/single-product/sale-flash.php:25
+Stack trace:
+#0 /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1656): wc_get_template()
+#2 /var/www/project.ars/httpdocs/wp-includes/class-wp-hook.php(303): woocommerce_show_product_sale_flash()
+#3 /var/www/project.ars/httpdocs/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#4 /var/www/project.ars/httpdocs/wp-includes/plugin.php(470): WP_Hook->do_action()
+#5 /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/templates/content-single-product.php(43): do_action()
+#6 /var/www/project.ars/httpdocs/wp-includes/template.php(772): require('/var/www/projec...')
+#7 /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_temp in /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/templates/single-product/sale-flash.php on line 25
+
+2021-09-13T09:21:49+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/templates/single-product/sale-flash.php:25
+Stack trace:
+#0 /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1656): wc_get_template()
+#2 /var/www/project.ars/httpdocs/wp-includes/class-wp-hook.php(303): woocommerce_show_product_sale_flash()
+#3 /var/www/project.ars/httpdocs/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#4 /var/www/project.ars/httpdocs/wp-includes/plugin.php(470): WP_Hook->do_action()
+#5 /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/templates/content-single-product.php(43): do_action()
+#6 /var/www/project.ars/httpdocs/wp-includes/template.php(772): require('/var/www/projec...')
+#7 /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_temp in /var/www/project.ars/httpdocs/wp-content/plugins/woocommerce/templates/single-product/sale-flash.php on line 25
+
+2021-09-13T09:30:16+00:00 CRITICAL require_once(): Failed opening required '/var/www/project.ars/httpdocs/wp-content/themes/temaaaa/woo-c.php' (include_path='.:/usr/share/php') in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T09:30:23+00:00 CRITICAL require_once(): Failed opening required '/var/www/project.ars/httpdocs/wp-content/themes/temaaaa/woo-c.php' (include_path='.:/usr/share/php') in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T09:32:16+00:00 CRITICAL require_once(): Failed opening required '/var/www/project.ars/httpdocs/wp-content/themes/temaaaa/woo-c.php' (include_path='.:/usr/share/php') in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T09:33:24+00:00 CRITICAL require_once(): Failed opening required '/var/www/project.ars/httpdocs/wp-content/themes/temaaaa/woo-c.php' (include_path='.:/usr/share/php') in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T09:33:25+00:00 CRITICAL require_once(): Failed opening required '/var/www/project.ars/httpdocs/wp-content/themes/temaaaa/woo-c.php' (include_path='.:/usr/share/php') in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T09:33:38+00:00 CRITICAL require_once(): Failed opening required '/var/www/project.ars/httpdocs/wp-content/themes/temaaaa/woo-c.php' (include_path='.:/usr/share/php') in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T09:33:54+00:00 CRITICAL require_once(): Failed opening required '/var/www/project.ars/httpdocs/wp-content/themes/temaaaa/woo-c.php' (include_path='.:/usr/share/php') in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T09:33:57+00:00 CRITICAL require_once(): Failed opening required '/var/www/project.ars/httpdocs/wp-content/themes/temaaaa/woo-c.php' (include_path='.:/usr/share/php') in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T09:34:17+00:00 CRITICAL require_once(): Failed opening required '/var/www/project.ars/httpdocs/wp-content/themes/temaaaa/woo-c.php' (include_path='.:/usr/share/php') in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T10:08:49+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+
+2021-09-13T10:08:49+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/project.ars/httpdocs/wp-content/themes/temaaaa/functions.php on line 155
+

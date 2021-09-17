@@ -1,0 +1,4 @@
+2021-09-16T07:24:28+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/project.ars/httpdocs/wp-content/themes/new_theme/front-page.php on line 2
+
+2021-09-16T07:24:34+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/project.ars/httpdocs/wp-content/themes/new_theme/front-page.php on line 2
+
