@@ -1,0 +1,8 @@
+[08/26/2021 9:17:34 AM] - Easy WP SMTP debug log file
+
+[08/26/2021 9:20:24 AM] - Headers: , To: arseny.tymkiv.ua@gmail.com, Subject: [blog] Password Reset
+[08/30/2021 7:16:54 AM] - Headers: , To: arseny.tymkiv.ua@gmail.com, Subject: [blog]: New order #63
+[08/30/2021 7:16:56 AM] - Headers: , To: arseny.tymkiv.ua@gmail.com, Subject: Your blog order has been received!
+[08/30/2021 8:10:48 AM] - Headers: , To: arseny.tymkiv.ua@gmail.com, Subject: [MARKET]: New order #67
+[08/30/2021 8:10:49 AM] - Headers: , To: arseny.tymkiv.ua@gmail.com, Subject: Your MARKET order has been received!
+[09/10/2021 7:19:59 AM] - Headers: , To: arseny.tymkiv.ua@gmail.com, Subject: [MARKET] Your site has updated to WordPress 5.8.1
